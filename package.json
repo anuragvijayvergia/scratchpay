@@ -28,7 +28,7 @@
     "business-days-calculator": "^2.2.0",
     "express": "^4.17.1",
     "express-pino-logger": "^4.0.0",
-    "luxon": "^1.22.0",
+    "luxon": "^2.5.2",
     "luxon-business-days": "^2.6.0",
     "moment": "^2.24.0",
     "moment-business-days": "^1.1.3",
